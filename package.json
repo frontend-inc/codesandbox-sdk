@@ -103,5 +103,7 @@
     "why-is-node-running": "^2.3.0",
     "yargs": "^17.7.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "ws": "^8.18.1"
+  }
 }

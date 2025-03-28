@@ -20,6 +20,7 @@ export {
   SandboxInfo,
   PaginationOpts,
 };
+export * from "./browser"
 export * from "./sandbox";
 
 export interface ClientOpts {
